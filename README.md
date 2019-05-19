@@ -6,6 +6,9 @@ A simple contact form with front-end in ReactJS and back-end in Firebase.
 npm install
 ```
 
+### Configuring Firebase
+Go to Firebase.js file in /src and add the firebase credentials.
+
 ### Starting the Server
 Run the next command to launch the development server. 
 ```
